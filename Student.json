@@ -1,0 +1,12 @@
+[
+    {
+        "Name": "Dev Patel",
+        "Program": "CMPG",
+        "Course" : "java"
+    },
+    {
+        "Name": "Pratham Patel",
+        "Program" : "CMPG",
+        "Course": "Java"
+    }
+]
